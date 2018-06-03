@@ -27,3 +27,7 @@ Para alcançar os 90 pontos precisei:
 2. Otimizei a função do UpdatePosition;
 3. Diminui para 20 o número de pizzas que serão carregadas;
 
+Link para entrar na minha página: https://padc1985.github.io/Projeto-websitePizzaOptimization/
+
+Obs: Projeto feito em conjunto com a aluna Marília de Rossi Barros, vulgo minha esposa.
+
